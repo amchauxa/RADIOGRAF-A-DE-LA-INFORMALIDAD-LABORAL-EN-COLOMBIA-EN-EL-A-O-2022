@@ -24,13 +24,15 @@ En un notebook llamado Procesamiento GEIH2022 se realizó toda la limpieza de la
 
 
 # Principales hallazgos
-*En los departamentos con mayor informalidad el salario mínimo es significativamente más alto que el salario promedio. 
-*Los hombres se encuentran más en el sector informal que las mujeres.
-*La informalidad de los Indígenas, afros y mulatos es mayor que en aquellas personas que no se identifican con una etnia.
-*A mayor nivel educativo, menor probabilidad de informalidad.
+1. En los departamentos con mayor informalidad el salario mínimo es significativamente más alto que el salario promedio, lo que demuestra poca correspondencia y desconexión entre las necesidades y dinámicas de los terrotorios y las regulaciones que toma el gobierno central.
+2. Los hombres se encuentran más en el sector informal que las mujeres, 
+3. La informalidad de los Indígenas, afros y mulatos es mayor que en aquellas personas que no se identifican con una etnia, lo que  puede reflejar falencias en la inclusión social y laboral de estas minorías.
+4. A mayor nivel educativo, menor probabilidad de informalidad. Aquellas personas que alcanzan niveles de educación superior tienen menor tasa de informalidad laboral.
+5. La informalidad tiene mayores porcentajes hacia las periferias del occidente y norte del país, como sucede con Nariño y la Guajira, mientras que saliendo de la periferia como Antioquia, Bogotá DC y Valle del Cauca tienen menor informalidad. Hacia el oriente, la informalidad es menor con respecto al promedio nacional, siendo los casos de Vichada, Vaupés y Casanare; departamentos que, además, cuentan con un salario promedio mayor que el salario mínimo
 
 # Referencias:
 Histórico del salario mínimo en Colombia. (s. f.). https://www.salariominimocolombia.net/historico/
 DANE(2022). Gran Encuesta Integrada de Hogares - GEIH - 2022. https://microdatos.dane.gov.co/index.php/catalog/771/data-dictionary/F56?file_name=Ocupados
 OECD(s.f) - Tax on Corporate Profits - OECD data. theOECD. https://data.oecd.org/tax/tax-on-corporate-profits.htm
 PNUD(2021). Mercados laborales fragmentados.
+Banco de la República. (2023). Estabilidad en el mercado laboral y análisis cuantitativo de algunos impactos del proyecto de ley de reforma laboral. Subgerencia de Política Monetaria e Información Económica Banco de la República
