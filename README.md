@@ -36,3 +36,8 @@ DANE(2022). Gran Encuesta Integrada de Hogares - GEIH - 2022. https://microdatos
 OECD(s.f) - Tax on Corporate Profits - OECD data. theOECD. https://data.oecd.org/tax/tax-on-corporate-profits.htm
 PNUD(2021). Mercados laborales fragmentados.
 Banco de la República. (2023). Estabilidad en el mercado laboral y análisis cuantitativo de algunos impactos del proyecto de ley de reforma laboral. Subgerencia de Política Monetaria e Información Económica Banco de la República
+
+# link 
+Este link incluye las bases de datos de la GEIH 2022 y OCDE 2021, los datasets creados durante el procesamiento de datos, los gráficos en jpg creados en el notebook dataviz y archivo shapefile del mapa de departamentos de Colombia. Estos archivos no se pudieron subir en el repositorio por su peso.
+
+https://drive.google.com/drive/folders/1CE0Eksg4aicZkqs4egw_RpOYcA9hmiUI?usp=sharing
